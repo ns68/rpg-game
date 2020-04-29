@@ -6,5 +6,5 @@
 class Bataille
 {
     public:
-        void bataille(void) const;
+        void bataille(void);
 };

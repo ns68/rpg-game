@@ -5,9 +5,9 @@
 
 
 
-void Bataille::bataille(void) const
+void Bataille::bataille(void)
 {
-    int nb = 50;
+    int nb = 3;
     std::vector<Personnage*> vR; 
     std::vector<Personnage*> vB; 
     

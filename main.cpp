@@ -5,10 +5,12 @@
 #include "generator.hpp"
 #include "bataille.hpp"
 
+
 int main()
 {
-    Bataille b;
-    b.bataille();
+  Bataille b;
+  b.bataille();
+    
     return 0;
 }
 
